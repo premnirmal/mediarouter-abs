@@ -19,5 +19,5 @@ Author: [Prem](https://plus.google.com/u/2/104566486614105999906/posts)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
 
-### Thanks for checking this out.
+#### Thanks for checking this out.
 [Prem Nirmal](https://plus.google.com/u/2/104566486614105999906/posts)
