@@ -5,6 +5,7 @@ Author: [Prem](https://plus.google.com/u/2/104566486614105999906/posts)
 ## Changes to the original Mediarouter
 - Changed references from AppCompat to the ABS version
 - Added onMute listener
+- Changed resource that shows 'no cast available' icon to a blank (gray) drawable because when using ABS, the `onDeviceAvailable(..)` callback is not called.
 
 ## Dependencies
 - Android support-v4
