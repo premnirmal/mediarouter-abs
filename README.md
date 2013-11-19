@@ -1,7 +1,5 @@
 # MediaRouter
 
-Author: [Prem](https://plus.google.com/u/2/104566486614105999906/posts)
-
 ## Changes to the original Mediarouter
 - Changed references from AppCompat to the ABS version
 - Added onMute listener
