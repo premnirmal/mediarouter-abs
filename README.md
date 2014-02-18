@@ -9,6 +9,9 @@
 - Android support-v4
 - ActionBarSherlock
 
+## Build Note
+In Eclipse, make sure you add the three jellybean* directories to the build path. (Right-click > Build Path > Use as Source Folder)
+
 ## Contributing
 
 1. Fork it
