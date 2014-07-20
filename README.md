@@ -21,5 +21,5 @@ In Eclipse, make sure you add the three jellybean* directories to the build path
 5. Create new Pull Request
 
 #### Thanks for checking this out.
-[Prem Nirmal](https://plus.google.com/u/2/104566486614105999906/posts)
-[@premnirmal88](https://twitter.com/premnirmal88)
+- [Prem Nirmal](https://plus.google.com/u/0/+PremNirmal/posts)
+- [@premnirmal88](https://twitter.com/premnirmal88)
